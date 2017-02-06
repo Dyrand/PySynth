@@ -5,9 +5,9 @@ Supports
 ------
 + Multiple Oscillators
 + Independent oscillator parameters
-..* Amplitude
-..* Frequency
-..* Phase
+	* Amplitude
+	* Frequency
+	* Phase
 + Scaled oscillator output range
 + Waveform rendering
 + .WAV file format
